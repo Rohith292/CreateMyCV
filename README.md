@@ -49,14 +49,10 @@ A dynamic, theme-driven resume builder designed for simplicity, flexibility, and
 
 ---
 
-### 🧑 Resume Preview – Rohith Sharma  
+### 🧑 Resume Templates 
 <img src="Images/Template.png" alt="Rohith Resume" width="700"/>
 
-- Role: Backend Engineer & AI Enthusiast  
-- Sections include:
-  - Summary, experience, projects, education, certifications, and contact
-  - Skills: Node.js, MongoDB, RESTful APIs
-  - Language proficiency bars
+- Contains 4 different resume templates.
 
 ---
 
