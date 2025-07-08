@@ -1,4 +1,4 @@
-# 📄 Resume Builder – CraftMyCV Clone
+# 📄 CraftMyCV
 
 A dynamic, theme-driven resume builder designed for simplicity, flexibility, and visual appeal. Users can create multiple resumes, customize themes, and preview CVs in real time. Built with a clean UI and modular components that reflect your frontend mastery.
 
@@ -41,18 +41,19 @@ A dynamic, theme-driven resume builder designed for simplicity, flexibility, and
 <img src="Images/EditResume.png" alt="ABC Resume" width="700"/>
 
 - Contains:
-  - 📬 Contact info with LinkedIn, GitHub, and email
-  - ✍️ Professional summary
-  - 💼 Work experience (ByteWave Technologies)
-  - 🔗 Project links (Chat App)
-  - 🧠 Skills and certifications
+  - 📬 Contact info with LinkedIn, GitHub, and email  
+  - ✍️ Professional summary  
+  - 💼 Work experience (ByteWave Technologies)  
+  - 🔗 Project links (Chat App)  
+  - 🧠 Skills and certifications  
 
 ---
 
-### 🧑 Resume Templates 
+### 🧑 Resume Templates  
 <img src="Images/Template.png" alt="Rohith Resume" width="700"/>
 
-- Contains 4 different resume templates.
+- Includes 4 different resume templates  
+- Each tailored with role-specific theming and layout  
 
 ---
 
@@ -65,5 +66,9 @@ A dynamic, theme-driven resume builder designed for simplicity, flexibility, and
 
 ---
 
-## 📁 Folder Structure
+## 💡 How to Use
 
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Rohith292/Resume-Builder.git
+   cd Resume-Builder
